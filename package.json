@@ -1,0 +1,40 @@
+{
+  "name": "quizifyjs",
+  "version": "1.0.0",
+  "description": "It is a robust Node.js package crafted to convert plain text or structured documents into interactive quizzes in JSON format. It leverages GenAI to identify key concepts, generate multiple-choice questions, and structure answers intelligently. Ideal for developers creating educational platforms, e-learning systems, or gamified assessments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QuizifyJS",
+    "Convert",
+    "Text",
+    "to",
+    "Quizzes",
+    "Interactive",
+    "Quizzes",
+    "JSON",
+    "Format",
+    "Generative",
+    "AI",
+    "Key",
+    "Concepts",
+    "Question",
+    "Generation",
+    "Multiple-Choice",
+    "Answers",
+    "Educational",
+    "Platforms",
+    "E-learning",
+    "Systems",
+    "Gamified",
+    "Assessments",
+    "test to quiz"
+  ],
+  "author": "Mohamed Shaik Mahsook",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  }
+}
